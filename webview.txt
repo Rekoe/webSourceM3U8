@@ -82,6 +82,7 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
+新建兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 
 安徽频道,#genre#
 亳州综合,webview://https://www.ahbztv.com/televisi0n.html
