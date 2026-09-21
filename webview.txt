@@ -99,7 +99,6 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 福建频道,#genre#
 泉州新闻综合,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoHCoQ/stream_name/news.html
 泉州闽南语,webview://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKofcKh/stream_name/mny.html
-晋江电视台,webview://http://www.jinjiang.tv/live/
 
 甘肃频道,#genre#
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
