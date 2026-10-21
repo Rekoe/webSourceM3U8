@@ -1,0 +1,141 @@
+# 蜻蜓FM 免费直播源（已实测可播放，MP3 64k 端点）
+# 格式：#EXTINF:-1 tvg-id="频道ID" tvg-name="名称" group-title="分类" radio="true",显示名
+# 端点：http://lhttp.qtfm.cn/live/{id}/64k.mp3
+# 说明：tvg-logo 未填，可用宿主程序生成占位台标；需要真实台标可后续补充。
+# https://raw.githubusercontent.com/dwj20011206/wen/91f98c79fc6f6d8b8c173d1182638c911b3e41e7/yang/live/%E7%94%B5%E5%8F%B0.txt
+#EXTINF:-1 tvg-id="somafm.groovesalad" tvg-logo="https://somafm.com/logos/256/groovesalad256.jpg" group-title="SomaFM" radio="true",Groove Salad
+https://ice5.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id="somafm.dronezone" tvg-logo="https://somafm.com/logos/256/dronezone256.jpg" group-title="SomaFM" radio="true",Drone Zone
+https://ice5.somafm.com/dronezone-128-mp3
+#EXTINF:-1 tvg-id="somafm.deepspaceone" tvg-logo="https://somafm.com/logos/256/deepspaceone256.jpg" group-title="SomaFM" radio="true",Deep Space One
+https://ice5.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1 tvg-id="somafm.gsclassic" tvg-logo="https://somafm.com/logos/256/gsclassic256.jpg" group-title="SomaFM" radio="true",Groove Salad Classic
+https://ice5.somafm.com/gsclassic-128-mp3
+#EXTINF:-1 tvg-id="somafm.spacestation" tvg-logo="https://somafm.com/logos/256/spacestation256.jpg" group-title="SomaFM" radio="true",Space Station Soma
+https://ice5.somafm.com/spacestation-128-mp3
+#EXTINF:-1 tvg-id="somafm.indiepop" tvg-logo="https://somafm.com/logos/256/indiepop256.jpg" group-title="SomaFM" radio="true",Indie Pop Rocks!
+https://ice5.somafm.com/indiepop-128-mp3
+#EXTINF:-1 tvg-id="somafm.secretagent" tvg-logo="https://somafm.com/logos/256/secretagent256.jpg" group-title="SomaFM" radio="true",Secret Agent
+https://ice5.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-id="somafm.lush" tvg-logo="https://somafm.com/logos/256/lush256.jpg" group-title="SomaFM" radio="true",Lush
+https://ice5.somafm.com/lush-128-mp3
+#EXTINF:-1 tvg-id="somafm.synphaera" tvg-logo="https://somafm.com/logos/256/synphaera256.jpg" group-title="SomaFM" radio="true",Synphaera Radio
+https://ice5.somafm.com/synphaera-128-mp3
+#EXTINF:-1 tvg-id="somafm.u80s" tvg-logo="https://somafm.com/logos/256/u80s256.jpg" group-title="SomaFM" radio="true",Underground 80s
+https://ice5.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-id="somafm.seventies" tvg-logo="https://somafm.com/logos/256/seventies256.jpg" group-title="SomaFM" radio="true",Left Coast 70s
+https://ice5.somafm.com/seventies-128-mp3
+#EXTINF:-1 tvg-id="somafm.defcon" tvg-logo="https://somafm.com/logos/256/defcon256.jpg" group-title="SomaFM" radio="true",DEF CON Radio
+https://ice5.somafm.com/defcon-128-mp3
+#EXTINF:-1 tvg-id="somafm.groovesalad2" tvg-logo="https://somafm.com/logos/256/groovesalad2256.jpg" group-title="SomaFM" radio="true",Groove Salad 2
+https://ice5.somafm.com/groovesalad2-128-mp3
+#EXTINF:-1 tvg-id="somafm.beatblender" tvg-logo="https://somafm.com/logos/256/beatblender256.jpg" group-title="SomaFM" radio="true",Beat Blender
+https://ice5.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-id="somafm.darkzone" tvg-logo="https://somafm.com/logos/256/darkzone256.jpg" group-title="SomaFM" radio="true",The Dark Zone
+https://ice5.somafm.com/darkzone-128-mp3
+#EXTINF:-1 tvg-id="somafm.bossa" tvg-logo="https://somafm.com/logos/256/bossa256.jpg" group-title="SomaFM" radio="true",Bossa Beyond
+https://ice5.somafm.com/bossa-128-mp3
+#EXTINF:-1 tvg-id="somafm.folkfwd" tvg-logo="https://somafm.com/logos/256/folkfwd256.jpg" group-title="SomaFM" radio="true",Folk Forward
+https://ice5.somafm.com/folkfwd-128-mp3
+#EXTINF:-1 tvg-id="somafm.illstreet" tvg-logo="https://somafm.com/logos/256/illstreet256.jpg" group-title="SomaFM" radio="true",Illinois Street Lounge
+https://ice5.somafm.com/illstreet-128-mp3
+#EXTINF:-1 tvg-id="somafm.thetrip" tvg-logo="https://somafm.com/logos/256/thetrip256.jpg" group-title="SomaFM" radio="true",The Trip
+https://ice5.somafm.com/thetrip-128-mp3
+#EXTINF:-1 tvg-id="somafm.sonicuniverse" tvg-logo="https://somafm.com/logos/256/sonicuniverse256.jpg" group-title="SomaFM" radio="true",Sonic Universe
+https://ice5.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-1 tvg-id="somafm.poptron" tvg-logo="https://somafm.com/logos/256/poptron256.jpg" group-title="SomaFM" radio="true",PopTron
+https://ice5.somafm.com/poptron-128-mp3
+#EXTINF:-1 tvg-id="somafm.reggae" tvg-logo="https://somafm.com/logos/256/reggae256.jpg" group-title="SomaFM" radio="true",Heavyweight Reggae
+https://ice5.somafm.com/reggae-128-mp3
+#EXTINF:-1 tvg-id="somafm.dz2" tvg-logo="https://somafm.com/logos/256/dz2256.jpg" group-title="SomaFM" radio="true",Drone Zone 2
+https://ice5.somafm.com/dz2-128-mp3
+#EXTINF:-1 tvg-id="somafm.thistle" tvg-logo="https://somafm.com/logos/256/thistle256.jpg" group-title="SomaFM" radio="true",ThistleRadio
+https://ice5.somafm.com/thistle-128-mp3
+#EXTINF:-1 tvg-id="somafm.suburbsofgoa" tvg-logo="https://somafm.com/logos/256/suburbsofgoa256.jpg" group-title="SomaFM" radio="true",Suburbs of Goa
+https://ice5.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-1 tvg-id="somafm.bootliquor" tvg-logo="https://somafm.com/logos/256/bootliquor256.jpg" group-title="SomaFM" radio="true",Boot Liquor
+https://ice5.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-id="somafm.7soul" tvg-logo="https://somafm.com/logos/256/7soul256.jpg" group-title="SomaFM" radio="true",Seven Inch Soul
+https://ice5.somafm.com/7soul-128-mp3
+#EXTINF:-1 tvg-id="somafm.fluid" tvg-logo="https://somafm.com/logos/256/fluid256.jpg" group-title="SomaFM" radio="true",Fluid
+https://ice5.somafm.com/fluid-128-mp3
+#EXTINF:-1 tvg-id="somafm.missioncontrol" tvg-logo="https://somafm.com/logos/256/missioncontrol256.jpg" group-title="SomaFM" radio="true",Mission Control
+https://ice5.somafm.com/missioncontrol-128-mp3
+#EXTINF:-1 tvg-id="somafm.cliqhop" tvg-logo="https://somafm.com/logos/256/cliqhop256.jpg" group-title="SomaFM" radio="true",cliqhop idm
+https://ice5.somafm.com/cliqhop-128-mp3
+#EXTINF:-1 tvg-id="somafm.metal" tvg-logo="https://somafm.com/logos/256/metal256.jpg" group-title="SomaFM" radio="true",Metal Detector
+https://ice5.somafm.com/metal-128-mp3
+#EXTINF:-1 tvg-id="somafm.sf1033" tvg-logo="https://somafm.com/logos/256/sf1033256.jpg" group-title="SomaFM" radio="true",SF 10-33
+https://ice5.somafm.com/sf1033-128-mp3
+#EXTINF:-1 tvg-id="somafm.brfm" tvg-logo="https://somafm.com/logos/256/brfm256.jpg" group-title="SomaFM" radio="true",Black Rock FM
+https://ice5.somafm.com/brfm-128-mp3
+#EXTINF:-1 tvg-id="somafm.vaporwaves" tvg-logo="https://somafm.com/logos/256/vaporwaves256.jpg" group-title="SomaFM" radio="true",Vaporwaves
+https://ice5.somafm.com/vaporwaves-128-mp3
+#EXTINF:-1 tvg-id="somafm.tikitime" tvg-logo="https://somafm.com/logos/256/tikitime256.jpg" group-title="SomaFM" radio="true",Tiki Time
+https://ice5.somafm.com/tikitime-128-mp3
+#EXTINF:-1 tvg-id="somafm.dubstep" tvg-logo="https://somafm.com/logos/256/dubstep256.jpg" group-title="SomaFM" radio="true",Dub Step Beyond
+https://ice5.somafm.com/dubstep-128-mp3
+#EXTINF:-1 tvg-id="somafm.digitalis" tvg-logo="https://somafm.com/logos/256/digitalis256.jpg" group-title="SomaFM" radio="true",Digitalis
+https://ice5.somafm.com/digitalis-128-mp3
+#EXTINF:-1 tvg-id="somafm.covers" tvg-logo="https://somafm.com/logos/256/covers256.jpg" group-title="SomaFM" radio="true",Covers
+https://ice5.somafm.com/covers-128-mp3
+#EXTINF:-1 tvg-id="somafm.scanner" tvg-logo="https://somafm.com/logos/256/scanner256.jpg" group-title="SomaFM" radio="true",SF Police Scanner
+https://ice5.somafm.com/scanner-128-mp3
+#EXTINF:-1 tvg-id="somafm.live" tvg-logo="https://somafm.com/logos/256/live256.jpg" group-title="SomaFM" radio="true",SomaFM Live
+https://ice5.somafm.com/live-128-mp3
+#EXTINF:-1 tvg-id="somafm.doomed" tvg-logo="https://somafm.com/logos/256/doomed256.jpg" group-title="SomaFM" radio="true",Doomed
+https://ice5.somafm.com/doomed-128-mp3
+#EXTINF:-1 tvg-id="somafm.n5md" tvg-logo="https://somafm.com/logos/256/n5md256.jpg" group-title="SomaFM" radio="true",n5MD Radio
+https://ice5.somafm.com/n5md-128-mp3
+#EXTINF:-1 tvg-id="somafm.specials" tvg-logo="https://somafm.com/logos/256/specials256.jpg" group-title="SomaFM" radio="true",SomaFM Specials
+https://ice5.somafm.com/specials-128-mp3
+#EXTINF:-1 tvg-id="somafm.insound" tvg-logo="https://somafm.com/logos/256/insound256.jpg" group-title="SomaFM" radio="true",The In-Sound
+https://ice5.somafm.com/insound-128-mp3
+#EXTINF:-1 tvg-id="somafm.chillits" tvg-logo="https://somafm.com/logos/256/chillits256.jpg" group-title="SomaFM" radio="true",Chillits Radio
+https://ice5.somafm.com/chillits-128-mp3
+#EXTINF:-1 tvg-id="somafm.sfinsf" tvg-logo="https://somafm.com/logos/256/sfinsf256.jpg" group-title="SomaFM" radio="true",SF in SF
+https://ice5.somafm.com/sfinsf-128-mp3
+
+国内电台,#genre#
+#EXTINF:-1 tvg-id="lymusic" tvg-name="洛阳音乐广播" tvg-logo="https://pic.qtfm.cn/2022/0217/20220217121421.jpeg" group-title="国内电台" radio="true",洛阳音乐广播
+https://lhttp-hw.qtfm.cn/live/1226/64k.mp3
+#EXTINF:-1 tvg-id="hjmusic" tvg-name="怀集音乐之声" tvg-logo="http://www.fm0758.com/fm/images/yangcong.jpg" group-title="国内电台" radio="true",怀集音乐之声
+http://lhttp.qtfm.cn/live/4804/64k.mp3
+#EXTINF:-1 tvg-id="333" tvg-name="北京文艺广播" group-title="文艺台" radio="true",北京文艺广播
+http://lhttp.qtfm.cn/live/333/64k.mp3
+#EXTINF:-1 tvg-id="339" tvg-name="北京新闻广播" group-title="新闻台" radio="true",北京新闻广播
+http://lhttp.qtfm.cn/live/339/64k.mp3
+#EXTINF:-1 tvg-id="20500172" tvg-name="国际新闻" group-title="新闻台" radio="true",国际新闻
+http://lhttp.qtfm.cn/live/20500172/64k.mp3
+#EXTINF:-1 tvg-id="4953" tvg-name="吉林新闻综合广播" group-title="新闻台" radio="true",吉林新闻综合广播
+http://lhttp.qtfm.cn/live/4953/64k.mp3
+#EXTINF:-1 tvg-id="4848" tvg-name="广州新闻电台" group-title="新闻台" radio="true",广州新闻电台
+http://lhttp.qtfm.cn/live/4848/64k.mp3
+#EXTINF:-1 tvg-id="4804" tvg-name="怀集音乐之声" group-title="音乐台" radio="true",怀集音乐之声
+http://lhttp.qtfm.cn/live/4804/64k.mp3
+#EXTINF:-1 tvg-id="4915" tvg-name="清晨音乐台" group-title="音乐台" radio="true",清晨音乐台
+http://lhttp.qtfm.cn/live/4915/64k.mp3
+#EXTINF:-1 tvg-id="20500149" tvg-name="两广之声音乐台" group-title="音乐台" radio="true",两广之声音乐台
+http://lhttp.qtfm.cn/live/20500149/64k.mp3
+#EXTINF:-1 tvg-id="332" tvg-name="北京音乐广播" group-title="音乐台" radio="true",北京音乐广播
+http://lhttp.qtfm.cn/live/332/64k.mp3
+#EXTINF:-1 tvg-id="20500150" tvg-name="顺德音乐之声" group-title="音乐台" radio="true",顺德音乐之声
+http://lhttp.qtfm.cn/live/20500150/64k.mp3
+#EXTINF:-1 tvg-id="5022107" tvg-name="动听音乐台" group-title="音乐台" radio="true",动听音乐台
+http://lhttp.qtfm.cn/live/5022107/64k.mp3
+#EXTINF:-1 tvg-id="15318341" tvg-name="AsiaFM HD音乐台" group-title="音乐台" radio="true",AsiaFM HD音乐台
+http://lhttp.qtfm.cn/live/15318341/64k.mp3
+#EXTINF:-1 tvg-id="5021912" tvg-name="AsiaFM 亚洲经典台" group-title="音乐台" radio="true",AsiaFM 亚洲经典台
+http://lhttp.qtfm.cn/live/5021912/64k.mp3
+#EXTINF:-1 tvg-id="20071" tvg-name="AsiaFM 亚洲天空台" group-title="音乐台" radio="true",AsiaFM 亚洲天空台
+http://lhttp.qtfm.cn/live/20071/64k.mp3
+#EXTINF:-1 tvg-id="15318569" tvg-name="AsiaFM 亚洲粤语台" group-title="音乐台" radio="true",AsiaFM 亚洲粤语台
+http://lhttp.qtfm.cn/live/15318569/64k.mp3
+#EXTINF:-1 tvg-id="20500187" tvg-name="云梦音乐台" group-title="音乐台" radio="true",云梦音乐台
+http://lhttp.qtfm.cn/live/20500187/64k.mp3
+#EXTINF:-1 tvg-id="4921" tvg-name="郑州音乐广播" group-title="音乐台" radio="true",郑州音乐广播
+http://lhttp.qtfm.cn/live/4921/64k.mp3
+#EXTINF:-1 tvg-id="5021523" tvg-name="惠州音乐广播FM90.7" group-title="音乐台" radio="true",惠州音乐广播FM90.7
+http://lhttp.qtfm.cn/live/5021523/64k.mp3
+#EXTINF:-1 tvg-id="1223" tvg-name="上海经典947" group-title="音乐台" radio="true",上海经典947
+http://lhttp.qtfm.cn/live/1223/64k.mp3
